@@ -35,5 +35,5 @@ body {
 .api-image {
     width: 100px;
     height: 100px;
-    margin: 3px;
+    padding: 5px;
 }
