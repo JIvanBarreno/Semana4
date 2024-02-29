@@ -17,6 +17,12 @@ body {
     background-color: #f9fbe7;
 }
 
+#list-image {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 .info {
     width: 100px;
     height: 100px;
@@ -24,6 +30,10 @@ body {
     border-style: solid;
     border-color: #9e9d24;
     border-radius: 10px;
-    display: flex;
-    flex-wrap: wrap;
+}
+
+.api-image {
+    width: 100px;
+    height: 100px;
+    margin: 3px;
 }
